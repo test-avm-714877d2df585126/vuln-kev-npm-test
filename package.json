@@ -1,0 +1,14 @@
+{
+  "name": "vuln-kev-npm-test",
+  "version": "1.0.0",
+  "description": "Test repo with CISA KEV + CVSS 9+ npm vulnerabilities",
+  "scripts": {
+    "test": "echo \"Tests passed\" && exit 0"
+  },
+  "dependencies": {
+    "ejs": "3.1.6",
+    "jsonwebtoken": "8.5.1",
+    "json5": "2.2.1",
+    "shell-quote": "1.7.2"
+  }
+}
